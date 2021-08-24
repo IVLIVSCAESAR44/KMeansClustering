@@ -1,0 +1,17 @@
+Attached is the Python program which goes through the K-Means Clustering Machine Learning algorithm with time series data. 
+
+The Algorithm was setup to run 2 years of Amazon Sales data and cluster the products based on sales trends. Those clusters would then be used to group data that has similar sales patterns to better hit Amazon's Deal of the Day sales.
+
+Setup(Line Numbers should be setup to follow the instructions better):
+
+1. Download Python
+2. Using PyPI, pip install pandas, scikit-learn(sklearn), and matplotlib.
+3. At line 8, input the location of the CSV file. This file will now make up the dataframe.
+4. Run line 16-28 independently first to get Elbow Method to determine which number of clusters is optimal for the ML algorithm.
+5. Input the number in line 31.
+6. At line 44, Put the name that you would want the file to be and which location you would want it to be in.
+
+The algorithm is now setup to be run. 
+
+
+Created by Adam Nitecki(IVLIVSCAESAR44)
